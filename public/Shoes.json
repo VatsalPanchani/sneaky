@@ -1,0 +1,596 @@
+{
+  "adidasShoes": [
+    {
+      "id": 1,
+      "name": "Grand Court CloudForm Comfort",
+      "price": "$600",
+      "url": "/images/adidas/1.png"
+    },
+    {
+      "id": 2,
+      "name": "VS Pace 2.0",
+      "price": "$420",
+      "url": "/images/adidas/2.png"
+    },
+    {
+      "id": 3,
+      "name": "Lite Racer 3.0",
+      "price": "$390",
+      "url": "/images/adidas/3.png"
+    },
+    {
+      "id": 4,
+      "name": "Alphaboost V1",
+      "price": "$480",
+      "url": "/images/adidas/4.png"
+    },
+    {
+      "id": 5,
+      "name": "Form Low",
+      "price": "$630",
+      "url": "/images/adidas/5.png"
+    },
+    {
+      "id": 6,
+      "name": "Breaknet 2.0",
+      "price": "$520",
+      "url": "/images/adidas/6.png"
+    },
+    {
+      "id": 7,
+      "name": "Stan Smith",
+      "price": "$580",
+      "url": "/images/adidas/7.png"
+    },
+    {
+      "id": 8,
+      "name": "Samba OG",
+      "price": "$540",
+      "url": "/images/adidas/8.png"
+    },
+    {
+      "id": 9,
+      "name": "Gazelle Blue",
+      "price": "$420",
+      "url": "/images/adidas/9.png"
+    },
+    {
+      "id": 10,
+      "name": "Hoops 3.0 Mid Classic Vintage",
+      "price": "$690",
+      "url": "/images/adidas/10.png"
+    },
+    {
+      "id": 11,
+      "name": "Forum Mid",
+      "price": "$650",
+      "url": "/images/adidas/11.png"
+    }
+  ],
+  "nikeShoes": [
+    {
+        "id": 12,
+        "name": "Air Jordan 1 Mid SE",
+        "price": "$1200",
+        "url": "/images/nike/air-jordan-1-mid-se-shoes-lCj12k-removebg-preview.png" 
+      },
+      {
+        "id": 13,
+        "name": "Air Jordan 1 Mid",
+        "price": "$1100",
+        "url": "/images/nike/air-jordan-1-mid-shoes-SQf7DM-removebg-preview.png"
+      },
+      {
+          "id": 14,
+          "name": "Air Jordan 1 Next Chapter",
+          "price": "$900",
+          "url": "/images/nike/air-jordan-1-next-chapter-dv1748-601-release-date-removebg-preview.png"
+        },
+        {
+          "id": 15,
+          "name": "Air Jordan 1 Low",
+          "price": "$820",
+          "url": "/images/nike/air-jordan-1-low-shoes-459b4T-removebg-preview.png"
+        },
+        {
+          "id": 16,
+          "name": "Air Jordan 1 Low OG",
+          "price": "$940",
+          "url": "/images/nike/air-jordan-1-low-og-shoes-29tsx7-removebg-preview.png"
+        },
+        {
+          "id": 17,
+          "name": "Air Force 1",
+          "price": "$540",
+          "url": "/images/nike/air-force-1-07-shoes-WrLlWX-removebg-preview.png"
+        },
+        {
+          "id": 18,
+          "name": "Air Jordan 2 Retro Low",
+          "price": "$650",
+          "url": "/images/nike/air-jordan-2-retro-low-shoes-dSkLFB-removebg-preview.png"
+        },
+        {
+          "id": 19,
+          "name": "Air Jordan 2 Retro",
+          "price": "$680",
+          "url": "/images/nike/air-jordan-2-retro-shoes-R7q2Nz-removebg-preview.png"
+        },
+        {
+          "id": 20,
+          "name": "Air Jordan 3 Retro",
+          "price": "$720",
+          "url": "/images/nike/air-jordan-3-retro-shoes-TJf2lm-removebg-preview.png"
+        },
+        {
+          "id": 21,
+          "name": "Air Jordan 4 Retro",
+          "price": "$780",
+          "url": "/images/nike/air-jordan-4-retro-older-shoes-89Tq4B8w-removebg-preview.png"
+        },
+        {
+          "id": 22,
+          "name": "Air Jordan 5 Retro Low",
+          "price": "$620",
+          "url": "/images/nike/air-jordan-5-retro-low-shoes-TJmnX2-removebg-preview.png"
+        },
+        {
+          "id": 23,
+          "name": "Air Jordan 5 Retro",
+          "price": "$730",
+          "url": "/images/nike/air-jordan-5-retro-shoe-DHTnmJ-removebg-preview.png"
+        },
+        {
+          "id": 24,
+          "name": "Air Jordan 6 Retro",
+          "price": "$760",
+          "url": "/images/nike/air-jordan-6-retro-shoes-4m3b9d__1_-removebg-preview.png"
+        },
+        {
+          "id": 25,
+          "name": "Air Jordan 6 Retro",
+          "price": "$760",
+          "url": "/images/nike/air-jordan-6-retro-shoes-4m3b9d-removebg-preview.png"
+        },
+        {
+          "id": 26,
+          "name": "Air Jordan 7 Retro SE",
+          "price": "$790",
+          "url": "/images/nike/air-jordan-7-retro-se-shoes-xjGbvR-removebg-preview.png"
+        },
+        {
+          "id": 27,
+          "name": "Air Jordan 7 Retro",
+          "price": "$780",
+          "url": "/images/nike/air-jordan-7-retro-shoes-xbNFP8-removebg-preview.png"
+        },
+        {
+          "id": 28,
+          "name": "Air Jordan 11 Retro Low",
+          "price": "$680",
+          "url": "/images/nike/air-jordan-11-retro-low-shoes-J5b8TL-removebg-preview.png"
+        },
+        {
+          "id": 29,
+          "name": "Air Jordan 12 Maniere",
+          "price": "$730",
+          "url": "/images/nike/air-jordan-12-a-ma-maniere-shoes-WZ6TMh-removebg-preview.png"
+        },
+        {
+          "id": 30,
+          "name": "Air Jordan 13 Retro",
+          "price": "$820",
+          "url": "/images/nike/air-jordan-13-retro-shoes-xcK6vg__1_-removebg-preview.png"
+        },
+        {
+          "id": 31,
+          "name": "Air Jordan 13 Retro",
+          "price": "$820",
+          "url": "/images/nike/air-jordan-13-retro-shoes-xcK6vg-removebg-preview.png"
+        },
+        {
+          "id": 32,
+          "name": "Air Jordan XXXVIII PF",
+          "price": "$830",
+          "url": "/images/nike/air-jordan-xxxviii-pf-basketball-shoes-tTRwfF-removebg-preview.png"
+        },
+        {
+          "id": 33,
+          "name": "Dunk Low",
+          "price": "$680",
+          "url": "/images/nike/custom-dunk-low-unlocked-by-you-removebg-preview.png"
+        },
+        {
+          "id": 34,
+          "name": "Custom Dunk Low",
+          "price": "$700",
+          "url": "/images/nike/download-removebg-preview.png"
+        },
+        {
+          "id": 35,
+          "name": "Air Jordan Wolf Edition",
+          "price": "$770",
+          "url": "/images/nike/new_image1-removebg-preview.png"
+        },
+        {
+          "id": 36,
+          "name": "Air Jordan Future Edition",
+          "price": "$930",
+          "url": "/images/nike/new_image3-removebg-preview.png"
+        },
+        {
+          "id": 37,
+          "name": "Air Sportz",
+          "price": "$690",
+          "url": "/images/nike/Screenshot_2023-08-27-19-44-23-24_40deb401b9ffe8e1df2f1cc5ba480b12-removebg-preview.png"
+        }
+    ],
+    "converseShoes": [
+      {
+        "id": 38,
+        "name": "Run Star Motion Low",
+        "price": "$400",
+        "url": "/images/converse/172895c_01-removebg-preview.png"
+      },
+      {
+          "id": 39,
+          "name": "Chuck 70 AT-CX Utility",
+          "price": "$480",
+          "url": "/images/converse/a02776c_01_1-removebg-preview.png"
+        },
+        {
+          "id": 40,
+          "name": "Chuck Tylor All Star CX",
+          "price": "$530",
+          "url": "/images/converse/a03277c_01_1-removebg-preview.png"
+        },
+        {
+          "id": 41,
+          "name": "Chuck 70 AT-CX",
+          "price": "$460",
+          "url": "/images/converse/a03424c_a_107x1-removebg-preview.png"
+        },
+        {
+          "id": 42,
+          "name": "Chuck 70 AT-CX Green",
+          "price": "$450",
+          "url": "/images/converse/a03464c_a_107x1-removebg-preview.png"
+        },
+        {
+          "id": 43,
+          "name": "Chuck Tylor All Star CX Green",
+          "price": "$540",
+          "url": "/images/converse/a03471c_01-removebg-preview.png"
+        },
+        {
+          "id": 44,
+          "name": "Chuck Tylor All Star Construct",
+          "price": "$490",
+          "url": "/images/converse/a03528_01-removebg-preview.png"
+        },
+        {
+          "id": 45,
+          "name": "Chuck Tylor All Star Lift OX",
+          "price": "$620",
+          "url": "/images/converse/a03537c_a_107x1-removebg-preview.png"
+        },
+        {
+          "id": 46,
+          "name": "Chuck 70 Embroidery High",
+          "price": "$570",
+          "url": "/images/converse/a03664c_a_107x1-removebg-preview.png"
+        },
+        {
+          "id": 47,
+          "name": "All Star BB Prototype",
+          "price": "$670",
+          "url": "/images/converse/a03695c_a_107x1-removebg-preview.png"
+        },
+        {
+          "id": 48,
+          "name": "AS-1 Pro",
+          "price": "$510",
+          "url": "/images/converse/a04144c_a_107x1-removebg-preview.png"
+        },
+        {
+          "id": 49,
+          "name": "All Star BB Prototype CX",
+          "price": "$690",
+          "url": "/images/converse/a04332c_01_1-removebg-preview.png"
+        },
+        {
+          "id": 50,
+          "name": "All Star Construct CX",
+          "price": "$490",
+          "url": "/images/converse/a04520c-01-removebg-preview.png"
+        },
+        {
+          "id": 51,
+          "name": "Chuck 70 Marquis",
+          "price": "$520",
+          "url": "/images/converse/a04539c_01-removebg-preview.png"
+        },
+        {
+          "id": 52,
+          "name": "AS-1",
+          "price": "$510",
+          "url": "/images/converse/a04957c_a_107x1_1-removebg-preview.png"
+        },
+        {
+          "id": 53,
+          "name": "Chuck Tylor All Star Sketch",
+          "price": "$560",
+          "url": "/images/converse/a05071c-1-removebg-preview.png"
+        },
+        {
+          "id": 54,
+          "name": "Star Player 76",
+          "price": "$440",
+          "url": "/images/converse/a05207c_01-removebg-preview.png"
+        },
+        {
+          "id": 55,
+          "name": "Chuck 70 Clubhouse",
+          "price": "$620",
+          "url": "/images/converse/a05681_standard-removebg-preview.png"
+        },
+        {
+          "id": 56,
+          "name": "Run Star Legecy CX Pride",
+          "price": "$580",
+          "url": "/images/converse/a06027c_a_107x1-removebg-preview.png"
+        },
+        {
+          "id": 57,
+          "name": "Chuck 70 Plus High Pride",
+          "price": "$560",
+          "url": "/images/converse/a06029c_a_107x1-removebg-preview.png"
+        },
+        {
+          "id": 58,
+          "name": "Chuck Tylor All Star Lift Pride",
+          "price": "$540",
+          "url": "/images/converse/a06031c_a_107x1-removebg-preview.png"
+        },
+        {
+          "id": 59,
+          "name": "Chuck Tylor All Star Pride",
+          "price": "$510",
+          "url": "/images/converse/a06032c_a_107x1-removebg-preview.png"
+        },
+        {
+          "id": 60,
+          "name": "Chuck Tylor All Star",
+          "price": "$410",
+          "url": "/images/converse/a06198c_01-removebg-preview.png"
+        },
+        {
+          "id": 61,
+          "name": "Run Star Hike",
+          "price": "$490",
+          "url": "/images/converse/a03955c-1-removebg-preview.png"
+        }
+    ],
+    "filaShoes": [
+      {
+        "id": 62,
+        "name": "Cage Mixed Media",
+        "price": "$480",
+        "url": "/images/fila/1.png"
+      },
+      {
+        "id": 63,
+        "name": "Original Tennis Sneakers",
+        "price": "$620",
+        "url": "/images/fila/2.png"
+      },
+      {
+          "id": 64,
+          "name": "Cambero Sneakers",
+          "price": "$590",
+          "url": "/images/fila/3.png"
+        },
+        {
+          "id": 65,
+          "name": "Lexif Sneakers",
+          "price": "$530",
+          "url": "/images/fila/4.png"
+        },
+        {
+          "id": 66,
+          "name": "Astir Lifestyle Sneakers",
+          "price": "$460",
+          "url": "/images/fila/5.png"
+        },
+        {
+          "id": 67,
+          "name": "Koroch Lifestyle Sneakers",
+          "price": "$480",
+          "url": "/images/fila/6.png"
+        },
+        {
+          "id": 68,
+          "name": "Mindblower Sneakers",
+          "price": "$510",
+          "url": "/images/fila/7.png"
+        },
+        {
+          "id": 69,
+          "name": "Oakmont TR",
+          "price": "$470",
+          "url": "/images/fila/8.png"
+        },
+        {
+          "id": 70,
+          "name": "Decora Sneakers",
+          "price": "$570",
+          "url": "/images/fila/9.png"
+        },
+        {
+          "id": 71,
+          "name": "Kerb Plus 2",
+          "price": "$520",
+          "url": "/images/fila/10.png"
+        },
+        {
+          "id": 72,
+          "name": "Ray Tracer Apex",
+          "price": "$490",
+          "url": "/images/fila/11.png"
+        },
+        {
+          "id": 73,
+          "name": "Ray Tracer Evo2 Ludi",
+          "price": "$550",
+          "url": "/images/fila/12.png"
+        }
+    ],
+    "new_balanceShoes": [
+      {
+        "id": 74,
+        "name": "NB 480",
+        "price": "$470",
+        "url": "/images/new balance/bb480lba_nb_02_i-removebg-preview.png"
+      },
+      {
+        "id": 75,
+        "name": "NB 990",
+        "price": "$390",
+        "url": "/images/new balance/m990gl6_nb_02_i-removebg-preview.png"
+      },
+      {
+          "id": 76,
+          "name": "NB 2002R",
+          "price": "$410",
+          "url": "/images/new balance/m2002rsf_nb_02_i-removebg-preview.png"
+        },
+        {
+          "id": 77,
+          "name": "NB 610",
+          "price": "$550",
+          "url": "/images/new balance/ml610tak_nb_02_i-removebg-preview.png"
+        },
+        {
+          "id": 78,
+          "name": "NB 327",
+          "price": "$370",
+          "url": "/images/new balance/ms327pj_nb_02_i-removebg-preview.png"
+        },
+        {
+          "id": 79,
+          "name": "NB 306",
+          "price": "$430",
+          "url": "/images/new balance/nm306wav_nb_02_i-removebg-preview.png"
+        },
+        {
+          "id": 80,
+          "name": "NB 306 SEA",
+          "price": "$430",
+          "url": "/images/new balance/nm306wir_nb_02_i-removebg-preview.png"
+        },
+        {
+          "id": 81,
+          "name": "NB 574",
+          "price": "$520",
+          "url": "/images/new balance/u574lgdb_nb_02_i-removebg-preview.png"
+        },
+        {
+          "id": 82,
+          "name": "NB 530",
+          "price": "$560",
+          "url": "/images/new balance/u9060gry_nb_02_i-removebg-preview.png"
+        },
+        {
+          "id": 83,
+          "name": "NB 9060 Black",
+          "price": "$620",
+          "url": "/images/new balance/u9060hsd_nb_02_i-removebg-preview.png"
+        },
+        {
+          "id": 84,
+          "name": "NB 9060 White",
+          "price": "$620",
+          "url": "/images/new balance/u9060vnb_nb_02_i-removebg-preview.png"
+        }
+    ],
+    "us_poloShoes": [
+      {
+        "id": 85,
+        "name": "USPA Clarkin",
+        "price": "$370",
+        "url": "/images/us polo/3_0b3c4527-d59c-44b5-8710-a29284a7c0e5_1080x-removebg-preview.png"
+      },
+      {
+        "id": 86,
+        "name": "USPA Panel",
+        "price": "$340",
+        "url": "/images/us polo/3_45b80919-8d99-42c5-84da-0cad8f99f29f_1080x-removebg-preview.png"
+      },
+      {
+          "id": 87,
+          "name": "USPA Motion 4.0",
+          "price": "$350",
+          "url": "/images/us polo/3_80a42c6b-bc85-4d5e-8f52-abe76364cafe_1080x-removebg-preview.png"
+        },
+        {
+          "id": 88,
+          "name": "USPA Sorento 2.0",
+          "price": "$410",
+          "url": "/images/us polo/3_857a8c5c-3a34-484b-a099-94e3f2f63d3e_1080x-removebg-preview.png"
+        },
+        {
+          "id": 89,
+          "name": "USPA Gamron",
+          "price": "$390",
+          "url": "/images/us polo/4_4cf84e61-c660-4a94-8c23-7186f50ea0fc_1080x-removebg-preview.png"
+        },
+        {
+          "id": 90,
+          "name": "USPA Capron 2.0",
+          "price": "$420",
+          "url": "/images/us polo/4_5a31f429-f21b-4a3c-bc90-c114fa04c899_1080x-removebg-preview.png"
+        },
+        {
+          "id": 91,
+          "name": "USPA Clarkin Black",
+          "price": "$430",
+          "url": "/images/us polo/4_9c29eaa4-3966-44db-9f18-0b7aaf219492_1080x-removebg-preview.png"
+        },
+        {
+          "id": 92,
+          "name": "USPA Mullen 2.0",
+          "price": "$480",
+          "url": "/images/us polo/4_09e1bcb2-fa22-421f-b0b5-65c313343221_1080x-removebg-preview.png"
+        },
+        {
+          "id": 93,
+          "name": "USPA Liguory 2.0",
+          "price": "$460",
+          "url": "/images/us polo/4_b56f25a1-0e99-48c1-a34a-8ad029c7ce60_1080x-removebg-preview.png"
+        },
+        {
+          "id": 94,
+          "name": "USPA Madryn 2.0",
+          "price": "$410",
+          "url": "/images/us polo/4_d0d087e4-b7fe-4fba-8708-4ed2735e4979_1080x-removebg-preview.png"
+        },
+        {
+          "id": 95,
+          "name": "USPA Federico",
+          "price": "$440",
+          "url": "/images/us polo/4_f7b8d58a-3076-4793-9532-38d8ed239e81_1080x-removebg-preview.png"
+        },
+        {
+          "id": 96,
+          "name": "USPA Ramus",
+          "price": "$330",
+          "url": "/images/us polo/4_fbd8789f-286d-484d-90c3-24a178a8dc09_1080x-removebg-preview.png"
+        },
+        {
+          "id": 97,
+          "name": "USPA Wanson 2.0",
+          "price": "$450",
+          "url": "/images/us polo/4_fe2af34d-4d4c-4b93-98db-7d6d6cfb98e3_1080x-removebg-preview.png"  
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+.introduction {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+  }
+  
+  #intro-video {
+    width: 28%;
+    max-width: 28%;
+    height: auto;
+  }
+  

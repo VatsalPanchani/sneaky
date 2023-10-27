@@ -1,0 +1,119 @@
+/* CategoryShoes.css */
+.category-shoes-container {
+    background-color: rgba(128, 128, 128, 0.575);
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+    overflow: hidden; /* Hide any overflow */
+  }
+  
+  .nike-logo {
+    margin-right: -150px; /* Add spacing between the logo and shoes */
+    margin-top: -100px;
+  }
+
+  .adidas-logo {
+    margin-right: -150px; /* Add spacing between the logo and shoes */
+    margin-left: 20px;
+    margin-top: -250px;
+  }
+
+  .converse-logo {
+    margin-right: -150px; /* Add spacing between the logo and shoes */
+    margin-left: 20px;
+    margin-top: -350px;
+  }
+
+  .new_balance-logo {
+    margin-right: -150px; /* Add spacing between the logo and shoes */
+    margin-left: 20px;
+    margin-top: -300px;
+  }
+
+  .balenciaga-logo {
+    margin-right: -150px; /* Add spacing between the logo and shoes */
+    margin-left: 20px;
+    margin-top: -350px;
+  }
+
+  .fila-logo {
+    margin-right: -150px; /* Add spacing between the logo and shoes */
+    margin-left: 30px;
+    margin-top: -250px;
+  }
+
+  .us_polo-logo {
+    margin-right: -150px; /* Add spacing between the logo and shoes */
+    margin-left: 30px;
+    margin-top: -300px;
+  }
+  
+  .shoes-row {
+    display: flex;
+    gap: 10px; /* Add spacing between shoes */
+    overflow-x: auto; /* Enable horizontal scrolling when necessary */
+  }
+
+  .shoes-row::-webkit-scrollbar {
+    width: 0; /* Hide the scrollbar in Webkit browsers (Safari, Chrome) */
+  }
+  
+  .shoe-item1 {
+    max-width: 50%; /* Adjust the maximum width of each shoe item */
+    flex-shrink: 0; /* Prevent items from shrinking */
+    max-height: auto; /* Adjust the maximum height of each shoe image */
+    margin-top: 15%;
+  }
+
+  .shoe-item2 {
+    width: 45%; /* Adjust the maximum width of each shoe item */
+    flex-shrink: 0; /* Prevent items from shrinking */
+    max-height: auto; /* Adjust the maximum height of each shoe image */
+    margin-top: 15%;
+  }
+
+  .shoe-item3 {
+    max-width: 50%; /* Adjust the maximum width of each shoe item */
+    flex-shrink: 0; /* Prevent items from shrinking */
+    max-height: auto; /* Adjust the maximum height of each shoe image */
+  }
+
+  .shoe-item4 {
+    max-width: 50%; /* Adjust the maximum width of each shoe item */
+    flex-shrink: 0; /* Prevent items from shrinking */
+    max-height: auto; /* Adjust the maximum height of each shoe image */
+  }
+
+  .shoe-item5 {
+    max-width: 50%; /* Adjust the maximum width of each shoe item */
+    flex-shrink: 0; /* Prevent items from shrinking */
+    max-height: auto; /* Adjust the maximum height of each shoe image */
+  }
+
+  .shoe-item6 {
+    max-width: 50%; /* Adjust the maximum width of each shoe item */
+    flex-shrink: 0; /* Prevent items from shrinking */
+    max-height: auto; /* Adjust the maximum height of each shoe image */
+    margin-top: 100px;
+  }
+
+  .shoe-item7 {
+    max-width: 50%; /* Adjust the maximum width of each shoe item */
+    flex-shrink: 0; /* Prevent items from shrinking */
+    max-height: auto; /* Adjust the maximum height of each shoe image */
+  }
+  
+  .see-more-button {
+    margin-left: auto; /* Push the button to the right */
+    background-color: transparent; /* Make the background transparent */
+    border: none; /* Remove the button border */
+    font-size: 18px; /* Adjust the font size */
+    cursor: pointer; /* Change the cursor on hover */
+    display: flex; /* Make the content inside the button flex */
+    align-items: center; /* Center align vertically */
+  }
+  
+  .arrow-icon {
+    font-size: 24px; /* Adjust the icon size */
+    margin-right: 20px; /* Add some spacing between the icon and text */
+  }

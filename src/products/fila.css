@@ -1,0 +1,47 @@
+/* FilaProducts.css */
+.fila-products-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Display 2 products side-by-side */
+    gap: 20px; /* Adjust the gap between products */
+    padding: 20px; /* Add padding around the grid */
+  }
+  
+  .fila-product {
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .fila-product img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .zoom-image {
+    transition: transform 0.2s ease; /* Add a smooth transition effect */
+  }
+  
+  /* Apply the zoom effect on hover */
+  .zoom-image:hover {
+    transform: scale(1.1); /* Increase the scale to zoom in by 10% */
+    cursor: pointer; /* Change the cursor to a pointer on hover */
+  }
+
+  .add-to-cart-button {
+    display: inline-block;
+    background-color: #007bff; /* Blue color */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .add-to-cart-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+  /* Add more styling as needed */
+  

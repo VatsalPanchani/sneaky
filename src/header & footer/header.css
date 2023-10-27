@@ -1,0 +1,35 @@
+/* Header.module.css */
+
+header {
+    background-color: black; /* Change this to the desired background color */
+  }
+  
+  .navbar-logo {
+    height: 120px; /* Adjust the height as needed */
+    /* Add any additional styling you want for the logo */
+  }
+  
+  .header-buttons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .header-button {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    border: none;
+    background: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .header-button:last-child {
+    margin-right: 0;
+  }
+  
+  .header-icon {
+    margin-right: 5px;
+  }
+  

@@ -1,0 +1,40 @@
+/* AboutUs.module.css */
+
+.aboutUsContainer {
+    padding: 50px; /* Adjust the padding as needed */
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgba(0.4, 0.4, 0.4, 0.4);
+    max-width: 80%; /* Adjust the max-width as needed */
+    margin: 0 auto; /* Center horizontally */
+  }
+  
+  .aboutUs h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+
+  .aboutUs h4 {
+    font-size: 1px;
+  }
+  
+  .aboutUs p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  /* Media query for responsiveness */
+  @media (max-width: 768px) {
+    .aboutUsContainer {
+      padding: 20px;
+    }
+    
+    .aboutUs h2 {
+      font-size: 20px;
+    }
+    
+    .aboutUs p {
+      font-size: 14px;
+    }
+  }
+  

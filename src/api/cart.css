@@ -1,0 +1,58 @@
+/* cart.css */
+.cart-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center items horizontally */
+  }
+  
+  .cart-item {
+    width: 80%; /* Set width to 80% */
+    background-color: #fff;
+    border: 1px solid #e0e0e0;
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+  }
+  
+  .cart-item-image {
+    max-width: 20%; /* Adjust the max-width as needed */
+    margin-left: 5%; /* Add some spacing between image and text */
+  }
+  
+  .cart-item-name {
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-right: 60px;
+  }
+  
+  .cart-item-price {
+    font-size: 20px;
+    font-weight: bold;
+    align-self: center;
+    margin-right: 5%;
+  }
+  
+  .remove-button {
+    position: relative;
+    bottom: 10px;
+    right: 10px;
+    color: #ff0000; /* Text and border color */
+    border: 1px solid #ff0000; /* Text and border color */
+    border-radius: 8%;
+    padding: 5px 10px;
+    background-color: transparent; /* Transparent background */
+    cursor: pointer;
+    font-size: 16px;
+    height: 40px;
+    width: 60px;
+    align-self: center;
+  }
+  
+  .remove-button:hover {
+    color: #ffffff; /* Text and border color on hover */
+    border: 2px solid #ff0000; /* Text and border color on hover */
+    background-color: #ff0000;
+  }

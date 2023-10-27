@@ -1,0 +1,29 @@
+body {
+    background-image: url("../logo/bg.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+  
+   .page {
+      background: rgba(199, 199, 199, 0.808); /* Adjust the color and opacity as needed */
+      z-index: 0; /* Ensure the slider is above the background image */
+    /* Any styles specific to the home page content  */
+  } 
+  
+  
+  .slider {
+    /* Example styles for your slider, adjust as needed */
+    position: relative;
+    z-index: 1; /* Ensure the slider is above the background image */
+  }
+  
+  .footer {
+    /* Example styles for your footer, adjust as needed */
+    position: relative;
+    z-index: 2; /* Ensure the footer is above the slider */
+  }
+  
